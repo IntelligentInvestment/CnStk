@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CnStkDemo", "CnStkDemo.vcxproj", "{12E9E31C-28D8-43CF-967F-9540D3B837AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E9E31C-28D8-43CF-967F-9540D3B837AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{12E9E31C-28D8-43CF-967F-9540D3B837AF}.Debug|x86.Build.0 = Debug|Win32
+		{12E9E31C-28D8-43CF-967F-9540D3B837AF}.Release|x86.ActiveCfg = Release|Win32
+		{12E9E31C-28D8-43CF-967F-9540D3B837AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06D98F22-CC72-4E4D-B23D-EB65CC61DB18}
+	EndGlobalSection
+EndGlobal
